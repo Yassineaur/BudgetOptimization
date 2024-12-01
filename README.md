@@ -3,37 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Moroccan Budget Optimization API</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-            margin: 20px;
-            color: #333;
-        }
-        h1, h2, h3 {
-            color: #0056b3;
-        }
-        code {
-            background-color: #f4f4f4;
-            padding: 2px 4px;
-            border-radius: 4px;
-            font-family: Consolas, monospace;
-            color: #d63384;
-        }
-        pre {
-            background: #f4f4f4;
-            padding: 10px;
-            border-left: 3px solid #0056b3;
-            overflow-x: auto;
-        }
-        .success {
-            color: green;
-        }
-        .error {
-            color: red;
-        }
-    </style>
+   
 </head>
 <body>
 
