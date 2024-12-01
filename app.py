@@ -121,6 +121,7 @@ The image contains a receipt. Please extract the information in JSON format, inc
             response_format=Receipt
         )
         structured_data = json.loads(response.choices[0].message.content)
+        #TESTING WITH 12345 USER
         user_id = request.form.get('user_id', "12345")
         
         total_cost = structured_data['total_cost']
