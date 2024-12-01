@@ -25,8 +25,8 @@
 <h3>Installation</h3>
 <ol>
     <li>Clone the repository:
-        <pre><code>git clone &lt;repository-url&gt;
-cd &lt;repository-name&gt;</code></pre>
+        <pre><code>git clone &lt;rhttps://github.com/Yassineaur/BudgetOptimization.git&gt;
+cd &lt;BudgetOptimization&gt;</code></pre>
     </li>
     <li>Install dependencies:
         <pre><code>pip install -r requirements.txt</code></pre>

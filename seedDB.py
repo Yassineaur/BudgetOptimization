@@ -2,7 +2,7 @@ from pymongo import MongoClient
 import datetime
 
 # Connect to MongoDB
-client = MongoClient("")
+client = MongoClient("Your details")
 db = client.bestCaption
 
 # Get references to products, offers, purchases, receipts, and users collections
